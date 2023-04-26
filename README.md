@@ -30,7 +30,7 @@ Here are some ideas to get you started:
 </h1>
 </div>
 
-### :woman_technologist: About Me :I am a Data Analyst from India.
+### About Me :I am a Data Analyst from India.
 - :telescope: I’m working as a Software Engineer and contributing to frontend and backend for building web applications.
 
 - :seedling: Exploring Technical Content Writing.
@@ -40,25 +40,13 @@ Here are some ideas to get you started:
 - :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-kakbar-blue?style=flat&logo=Linkedin&logoColor=white)](your-linkedin-url)
 
 
----
+### Tools & Technologies
 
-### :hammer_and_wrench: Languages and Tools :
 
-<div>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" title="Python" alt="Python" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL"  alt="MySQL" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" title="AWS" alt="AWS" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original-wordmark.svg" title="Mongodb" alt="Mongodb" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/anaconda/anaconda-original-wordmark.svg" title="Anaconda" alt="Anaconda" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/apachekafka/apachekafka-original.svg" title="apachekafka" alt="apachekafka" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" title="microsoftsqlserver" alt="microsoftsqlserver " width="40" height="40"/>&nbsp;
-  </div>
 
-### :fire: My Stats :
+[![My Skills](https://skillicons.dev/icons?i=py,r,mysql,mongodb,aws,gcp,azure,tensorflow,kafka&perline=3)](https://skillicons.dev) 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=arpitamangal&layout=compact&hide_border=true)](https://github.com/arpitamangal/github-readme-stats)
 
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=arpitamangal&theme=dark&background=000000)](https://git.io/streak-stats)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=arpitamangal)](https://github.com/arpitamangal/github-readme-stats)
-
+![Arpita's GitHub stats](https://github-readme-stats.vercel.app/api?username=arpitamangal&theme=graywhite&show_icons=true&hide_border=true)
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=arpitamangal&theme=graywhite&hide_border=true&card_width=495)](https://git.io/streak-stats)
 
