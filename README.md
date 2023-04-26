@@ -56,7 +56,7 @@ I'm a self motivated, result oriented person who believes that analytics can cre
 
 ### Education :
 * Masters in Business Analytics, UC Davis Graduate School of Management'2023
-* Masters & Bachelors of Technology,Indian Institute of Technology Kharagpur'2019
+* Masters & Bachelors of Technology, Indian Institute of Technology Kharagpur'2019
 
 ### Experience :
 * Associate Vice President, Strategy Team, Kotak Securities, Jul. 2021 - Jul. 2022
