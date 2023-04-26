@@ -30,7 +30,11 @@
 * [Twitter Sentiment Analysis](https://github.com/arpitamangal/twitter-sentiment-analysis)
 -->
 
-### About Me :
+#### Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/> 
+
+#### Welcome to My Profile!
+
+### Bio :
 
 I'm a self motivated, result oriented person who believes that analytics can create a positive impact in today's data-driven world. I thrive in environments that balance collaborative teamwork with healthy competition. In my free time, I enjoy adventurous activities and keen to broaden my horizons with new experiences.
 
