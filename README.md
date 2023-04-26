@@ -63,7 +63,7 @@ I'm a self motivated, result oriented person who believes that analytics can cre
 * Graduate Analyst, Barclays, Jul. 2019 - Jul. 2021
 
 
-#### ![Arpita's GitHub stats](https://github-readme-stats.vercel.app/api?username=arpitamangal&theme=graywhite&show_icons=true&hide_border=true)![GitHub Streak](http://github-readme-streak-stats.herokuapp.com/?user=arpitamangal&theme=graywhite&hide_border=true&card_width=400)
+![Arpita's GitHub stats](https://github-readme-stats.vercel.app/api?username=arpitamangal&theme=graywhite&show_icons=true&hide_border=true)![GitHub Streak](http://github-readme-streak-stats.herokuapp.com/?user=arpitamangal&theme=graywhite&hide_border=true&card_width=390)
 
 
 
