@@ -5,7 +5,7 @@ I am an analytics professional with 3 years of work experience. I recently gradu
  
 ### Fun Fact: Online shopping introduced me to Analytics!
 
-Given the remote location of my undergraduate campus, I found myself relying heavily on online shopping. My curiosity about product recommendations sparked a fascination with Analytics. Through a blend of e-learning, flexible courses, and internships, I pursued knowledge in this field. Drawn by the excitement of data science and machine learning, I was inspired to take on a new challenge – dipping my toes into the waters of software engineering.
+Given the remote location of my undergraduate campus, I found myself relying heavily on online shopping. My curiosity about product recommendations sparked a fascination with Analytics. Through a blend of e-learning, flexible courses, and internships, I pursued knowledge in this field. Drawn by the excitement of machine learning, I was inspired to take on a new challenge – dipping my toes into the waters of software engineering.
 
 Upon completing my degree, I joined Barclays, where I immersed myself in iOS development. Simultaneously, I dedicated time to self-initiated machine learning projects, nurturing my passion. However, my aspiration for a full-time career in Data Science led me to join Kotak Securities. Here, I engaged deeply in customer and marketing analytics, thriving under an exceptional manager.
 
