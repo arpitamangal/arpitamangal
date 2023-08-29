@@ -1,7 +1,7 @@
 ## Hello there :) 
 **Welcome to My Profile!**
 
-I am an analytics professional with 3 years of work experience. I recently graduated with a Master of Science in Business Analytics (STEM) from UC Davis and seeking full-time positions. My interest especially lies in customer and marketing analytics with implementations of MMM, NLP, Experimentation, and Hypothesis testing.
+I am an analytics professional with 3 years of work experience. I recently graduated with a Master of Science in Business Analytics (STEM) and seeking full-time positions. My interest lies in customer and marketing analytics with implementations of MMM, NLP, Experimentation, and Hypothesis testing.
  
 ### Fun Fact: Online shopping introduced me to Analytics!
 
