@@ -11,7 +11,7 @@ Upon completing my degree, I joined Barclays, where I immersed myself in iOS dev
 
 Yet, a persistent concern lingered – the absence of formal education in Analytics and Machine Learning. Fueled by a lifelong dream of pursuing education abroad, I turned to my manager for guidance. His invaluable advice steered me towards the Business Analytics program that blended my robust technical acumen with a strong business focus. This journey proved transformative, refining my ability to tackle complex problems and craft effective analytical solutions.
 
-More resolute than ever, I am now eager to embrace full-time opportunities in Data Science.
+More resolute than ever, I am now eager to embrace full-time opportunities in Data Science and Analytics.
 
 ### Tools & Technologies :
 
