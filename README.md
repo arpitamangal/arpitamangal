@@ -22,7 +22,7 @@ More resolute than ever, I am now eager to embrace full-time opportunities in Da
 * Master of Technology and Bachelor of Technology in Engineering, Indian Institute of Technology Kharagpur
 
 ### Experience :
-* Data Scientist, Kotak Securities
+* Associate Vice President, Kotak Securities
 * Graduate Analyst, Barclays
 
 ### Internships & Practicum
