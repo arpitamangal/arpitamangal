@@ -1,20 +1,38 @@
-### Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/> 
+### Hello there :) <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/> 
 
-### Welcome to My Profile !
+### Welcome to My Profile!
 
-I'm a self motivated, result oriented person who believes that analytics can create a positive impact in today's data-driven world. I thrive in environments that balance collaborative teamwork with healthy competition. In my free time, I enjoy adventurous activities and keen to broaden my horizons with new experiences.
+I am an analytics professional with 3 years of work experience. I recently graduated with a Master of Science in Business Analytics (STEM) from UC Davis and seeking full-time opportunities. My interest especially lies in customer and marketing analytics with implementations of MMM, NLP, Experimentation, and Hypothesis testing.
+ 
+**Fun Fact: Online shopping introduced me to Analytics!**
+
+Given the remote location of my undergraduate campus, I found myself relying heavily on online shopping. My curiosity about product recommendations sparked a fascination with Analytics. Through a blend of e-learning, flexible courses and internships, I diligently pursued knowledge in this field. Drawn by the excitement of data science and machine learning, I was inspired to take on a new challenge – dipping my toes into the waters of software engineering.
+
+Upon completing my degree, I joined Barclays, where I immersed myself in iOS development. Simultaneously, I dedicated time to self-initiated machine learning projects, nurturing my passion. However, my aspiration for a full-time career in Data Science led me to join Kotak Securities. Here, I engaged deeply in customer and marketing analytics, thriving under an exceptional manager.
+
+Yet, a persistent concern lingered – the absence of formal education in Analytics and Machine Learning. Fueled by a lifelong dream of pursuing education abroad, I turned to my manager for guidance. His invaluable advice steered me towards Business Analytics program that blended my robust technical acumen with a strong business focus. This journey proved transformative, refining my ability to tackle complex problems and craft effective analytical solutions.
+
+Armed with these enriched insights, I am now primed with enthusiasm to embrace full-time opportunities in Data Science that seamlessly integrate my technological prowess with a profound understanding of business acumen.
+
 
 ### Tools & Technologies :
 
 [![My Skills](https://skillicons.dev/icons?i=py,r,mysql,mongodb,aws,gcp,azure,tensorflow,kafka)](https://skillicons.dev)
 
 ### Education :
-* Masters in Business Analytics, UC Davis Graduate School of Management'2023
-* Masters & Bachelors of Technology, Indian Institute of Technology Kharagpur'2019
+* Masters in Business Analytics, UC Davis Graduate School of Management
+* Master of Technology and Bachelor of Technology in Engineering, Indian Institute of Technology Kharagpur
 
 ### Experience :
-* Associate Vice President, Strategy Team, Kotak Securities, Jul. 2021 - Jul. 2022
-* Graduate Analyst, Barclays, Jul. 2019 - Jul. 2021
+* Data Scientist, Kotak Securities
+* Graduate Analyst, Barclays
+
+### Internships & Practicum
+* Data Scientist, Practicum, Qualcomm
+* Research Assistant, Cambridge Judge Business School
+* Data Scientist Intern, Kotak Securities
+* Machine Learning Intern, RedX Innovation Lab
+* Data Analyst Intern, Flytxt
 
 <!---
 ![Arpita's GitHub stats](https://github-readme-stats.vercel.app/api?username=arpitamangal&theme=graywhite&show_icons=true&hide_border=true&card_width=350)![GitHub Streak](http://github-readme-streak-stats.herokuapp.com/?user=arpitamangal&theme=graywhite&hide_border=true&card_width=400)
