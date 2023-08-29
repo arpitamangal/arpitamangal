@@ -3,7 +3,7 @@
 
 I am an analytics professional with 3 years of work experience. I recently graduated with a Master of Science in Business Analytics (STEM) and seeking full-time positions. My interest lies in customer and marketing analytics with implementations of MMM, NLP, Experimentation, and Hypothesis testing.
  
-### Fun Fact: Online shopping introduced me to Analytics!
+### Fun Fact: Online shopping introduced me to Data Science!
 
 Given the remote location of my undergraduate campus, I found myself relying heavily on online shopping. My curiosity about product recommendations sparked a fascination with Analytics. Through a blend of e-learning, flexible courses, and internships, I pursued knowledge in this field. Drawn by the excitement of data science and machine learning, I was inspired to take on a new challenge – dipping my toes into the waters of software engineering.
 
