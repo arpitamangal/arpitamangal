@@ -2,9 +2,8 @@
 **Welcome to My Profile!**
 
 I am an analytics professional with 3 years of work experience. I recently graduated with a Master of Science in Business Analytics (STEM) and seeking full-time positions. My interest lies in analysing customer behaviour for risk assessment and marketing. I have worked on customer segmentation, propensity data models and churn prediction.
- 
-### Fun Fact: Online shopping introduced me to Data Science!
 
+ 
 Given the remote location of my undergraduate campus, I found myself relying heavily on online shopping. My curiosity about product recommendations sparked a fascination with Analytics. Through a blend of e-learning, flexible courses, and internships, I pursued knowledge in this field. Drawn by the excitement of data science and machine learning, I was inspired to take on a new challenge – dipping my toes into the waters of software engineering. (pun intended: I have majored in Ocean Engineering)
 
 Upon completing my degree, I joined Barclays, where I immersed myself in development role. Simultaneously, I dedicated time to self-initiated machine learning projects, nurturing my passion. However, my aspiration for a full-time career in Data Science led me to join Kotak Securities. Here, I engaged deeply in customer and marketing analytics, thriving under an exceptional manager.
